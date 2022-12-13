@@ -1,8 +1,8 @@
 import xapi from 'xapi';
 
-const morning = "8"; // 8:00am
-const afternoon = "12"; // 12:00pm
-const evening = "18"; // 6:00pm
+const morning = "8"; // 8:00am onwards
+const afternoon = "12"; // 12:00pm onwards
+const evening = "18"; // 6:00pm onwards
 
 const morningUrl = "https://www.employees.org/~dhenwood/WbxWallpaper/MorningBackground.zip";
 const afternoonUrl = "https://www.employees.org/~dhenwood/WbxWallpaper/AfternoonBackground.zip";
